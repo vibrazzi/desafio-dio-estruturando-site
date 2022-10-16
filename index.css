@@ -35,8 +35,7 @@ body {
     padding: 20px;
 }
 .footer {
-    
     background-color: rgb(255, 255, 255);
-    min-height: 150px;
-    float: left
+    min-height: 1px;
+   
 }
