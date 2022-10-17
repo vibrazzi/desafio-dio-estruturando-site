@@ -11,7 +11,7 @@ body {
     width: 1200px;
     display: flex;
     margin: 0 auto;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(141, 122, 122);
 }
 .main {
     display: flex;
@@ -20,22 +20,22 @@ body {
 }
 .menu {
     
-    width: 15%;
-    background-color: rgb(238, 234, 234);
-    padding: 10px 20px 0px;
+    width: 20%;
+    background-color: rgb(214, 216, 206);
+    padding: 100px 20px 100px;
 }
 .header {
-    
-    background-color: rgb(65, 64, 64);
-    min-height: 150px;
+    width: 310;
+    background-color: rgb(214, 216, 206);
+    min-height: 100px;
 }
 .content {
-    background-color: rgb(216, 208, 208);
+    background-color: rgb(255, 255, 255);
     min-height: 300px;
     padding: 20px;
 }
 .footer {
-    background-color: rgb(165, 165, 165);
+    background-color: rgb(255, 255, 255);
     min-height: 1px;
    
 }
